@@ -8,6 +8,14 @@ We are trying to design the wrapper but to do this we need:
 - - An Hypervisor [like KVM]
 - - - A way to better manage the clustering of hypervisor [like Ganeti]
 - - - - obviously: the virtual machine
-- - - - Docker
-- - - - - java inside Docker
+- - - - Docker running on vm
+- - - - - Java Virtual Machine inside Docker
 - - - - - - WHAT THA FUCK ?!?!?!
+- - - - - - - please kill us.
+
+
+
+We want your help!
+PullRequest us !!!
+
+Docker is amaz COUGH COUGH COUGH
