@@ -19,3 +19,13 @@ We want your help!
 PullRequest us !!!
 
 Docker is amaz COUGH COUGH COUGH
+
+
+Instruction
+
+Before start you need a docker container with java
+
+docker pull openjdk 
+
+
+Then start to pray multitasking.
